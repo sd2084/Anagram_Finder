@@ -1,9 +1,9 @@
 # Anagram_Finder
-Introduction:
+**Introduction:**
 
 Welcome to the Anagram Finder! This Python script helps you find anagrams in a list of words. Anagrams are words or phrases formed by rearranging the letters of another word or phrase, using all the original letters exactly once.
 
-How it Works:
+**How it Works:**
 
 is_anagram(word1, word2)
 This function takes two words, word1 and word2, as input parameters and checks if they are anagrams of each other.
@@ -34,7 +34,7 @@ Handling Non-Anagrams
 1. If the current_anagram list has only one word, it means that the word doesn't have any anagrams in the list.
 2. In this case, the word is appended to the non_anagrams list.
 
-Running the Script:
+**Running the Script:**
 
 1. The main section of the code prompts the user to enter a list of words separated by spaces.
 2. The user's input is split into individual words and stored in the word_list variable.
@@ -42,7 +42,7 @@ Running the Script:
 3. The function returns two lists: anagrams containing the anagram groups and non_anagrams containing words without anagrams.
 4. The results are then printed to the console.
 
-Opening the Code in Google Colab:
+**Opening the Code in Google Colab:**
 
 To open and run the code in Google Colab, follow these steps:
 Go to the GitHub repository containing the code.
