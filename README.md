@@ -44,8 +44,8 @@ Handling Non-Anagrams
 
 **Opening the Code in Google Colab:**
 
-To open and run the code in Google Colab, follow these steps:
-Go to the GitHub repository containing the code.
-Click on the .ipynb notebook file.
-On the top-right corner of the notebook page, you'll see a "Open in Colab" button. Click on it to open the notebook in Google Colab.
-Google Colab will open the notebook in a new tab. You can now run the code.
+1. To open and run the code in Google Colab, follow these steps:
+2. Go to the GitHub repository containing the code.
+3. Click on the .ipynb notebook file.
+4. On the top-right corner of the notebook page, you'll see a "Open in Colab" button. Click on it to open the notebook in Google Colab.
+5. Google Colab will open the notebook in a new tab. You can now run the code.
